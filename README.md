@@ -1,4 +1,4 @@
-# ROS_based_solution_for_the_movement_control_of_the_kuka_lbr_iiwa_14_arm
+# A ROS Based Solution for the Movement Control of the KUKA lbr iiwa 14 manipulator arm
 
 **Description**
 During my internship at CDTA, we used the ROS API developed by  Sheffield robotics to control the kuka lbr iiwa 14 arm. Furthermore, we could introduce a simple trajectory illustrator and recreate it using a High level controller that uses rosbag and the API for the trajectory immitation.
